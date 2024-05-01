@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raúl Martínez</h1>
 <h3 align="center">A passionate full stack developer from México</h3>
 
-- 🔭 I’m currently working on **T&T Software de México**
+- 🔭 I’m currently working as **freelancer**
 
 - 🌱 I’m currently learning **Docker**
 
