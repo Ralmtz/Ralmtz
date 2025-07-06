@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, node**
 
-- 📫 How to reach me **mtz.castellanos72@gmail.com**
+- 📫 How to reach me **info@ralmtz.com**
 
 - ⚡ Fun fact **I love Ruffles ♥**
 
